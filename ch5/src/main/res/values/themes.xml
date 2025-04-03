@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.AndroidLab" parent="Base.Theme.AndroidLab" />
+
+    <style name="MyActivityTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FFFF0000</item>
+        <item name="colorSecondary">#FF0000FF</item>
+
+    </style>
 </resources>
