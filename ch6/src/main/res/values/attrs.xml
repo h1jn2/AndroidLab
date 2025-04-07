@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    custom view 에 custom attributes 를 사용하고 싶을 때-->
+    <declare-styleable name="MyView">
+        <attr name="customTextColor" format="color"/>
+    </declare-styleable>
+</resources>
