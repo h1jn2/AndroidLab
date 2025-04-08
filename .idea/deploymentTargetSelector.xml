@@ -17,9 +17,6 @@
       <SelectionState runConfigName="chat_ahj">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="Test4_1Activity">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
       <SelectionState runConfigName="Test6_1Activity">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
@@ -36,6 +33,12 @@
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
       <SelectionState runConfigName="Test4_1Activity (1)">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="Test5_1Activity">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="ch8">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
