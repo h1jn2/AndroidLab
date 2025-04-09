@@ -39,7 +39,7 @@ public class SomeActivity extends AppCompatActivity {
             // 결과 데이터를 포함시켜 intent 에 extra 로
             intent.putExtra("result", "Hello World");
             // 상태 정보, 표현 - 어떤 상태에서 되돌리는 것인지
-            setResult(RESULT_OK);
+            setResult(RESULT_OK, intent);
             // 자신의 액티비티를 종료시켜서 시스템에 의해 이전 액티비티로 돌아가게 코드적으로 되돌림
             finish();
         });
