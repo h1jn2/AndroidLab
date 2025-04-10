@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
         if (!exists) {
             // 테이블이 없다면 만들어 줌
-            db.execSQL("create table test1_tb(" +
+            db.execSQL("create table test1_tb (" +
                     "_id integer primary key autoincrement," +
                     "title text," +
                     "content text)");
